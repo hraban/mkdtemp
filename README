@@ -1,0 +1,6 @@
+Go implementation of mkdtemp (3) from the C stdlib.h.
+
+Explanation for usage of this library can be extracted from the source using
+godoc: <http://godoc.org/github.com/hraban/mkdtemp>.
+
+The licensing terms are described in the file LICENSE.
